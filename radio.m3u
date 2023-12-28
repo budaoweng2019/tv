@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 ,FM1320
 http://n0d.radiojar.com/60sqadqu97zuv?rj-ttl=5&1658084996=&rj-tok=AAABjKTKTWIAj6jRzfyUtCmyTA
-#EXTINF:-1 ,HeartLondon
+#EXTINF:-1 group-title="境外广播" tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logog.jpg",HeartLondon
 http://icecast.thisisdax.com/HeartLondon
 #EXTINF:-1 group-title="境外广播" tvg-logo="https://live.fanmingming.com/radio/全国广播.png",M-Radio全国广播
 http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
