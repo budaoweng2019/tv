@@ -67,5 +67,3 @@ http://43.128.50.137:18278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737
 rtmp://43.128.50.137/sat/tv771
 #EXTINF:-1 tvg-id="互动英文" tvg-name="互动英文" tvg-logo="https://epg.112114.xyz/logo/互动英文.png" group-title="港澳台",互动英文（door-hk）
 http://43.128.50.137:18080/live/54/hls.m3u8
-#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="港澳台",靖天日本
-https://stream1.freetv.fun/1706c75d0a1c3105bd393d9000afb4c1dd741f5f3cef9ab677b83d270dc2ceec.m3u8
