@@ -1,63 +1,34 @@
 #EXTM3U
 #EXTINF:-1 ,Al Jazeera 420
 http://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 ,tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="https://epg.112114.xyz/logo/惊艳台.png" group-title="其他",惊艳台（door-hk）
-http://43.128.50.137:8156/VideoInput/play.ts
-#EXTINF:-1 ,tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://epg.112114.xyz/logo/香蕉台.png" group-title="其他",香蕉台（door-hk）
-http://43.128.50.137:8159/VideoInput/play.ts
-#EXTINF:-1 ,奥视1（door-hk）
-http://43.128.50.137:8201/VideoInput/play.ts
-#EXTINF:-1 ,奥视2（door-hk）
-http://43.128.50.137:8203/VideoInput/play.ts
-#EXTINF:-1 ,奥视3（door-hk）
-http://43.128.50.137:8205/VideoInput/play.ts
-#EXTINF:-1 ,麻豆（door-hk）
-http://43.128.50.137:51359/VideoInput/play.ts
-#EXTINF:-1 ,Extasy（door-hk）
-http://43.128.50.137:10080/350/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Redlight HD（door-hk）
-http://43.128.50.137:10080/358/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Vividtv（door-hk）
-http://43.128.50.137:10080/361/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Erox（door-hk）
-http://43.128.50.137:10080/363/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Private（door-hk）
-http://43.128.50.137:10080/356/playlist.m3u8
-#EXTINF:-1 ,Hustler（door-hk）
-http://43.128.50.137:10080/348/index.m3u8
-#EXTINF:-1 ,Hustler TVr（door-hk）
-http://43.128.50.137:10080/349/index.m3u8
-#EXTINF:-1 ,Penthouse（door-hk）
-http://43.128.50.137:10080/353/index.m3u8
-
-#EXTINF:-1 ,tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="https://epg.112114.xyz/logo/惊艳台.png" group-title="其他",惊艳台（door-us）
-http://45.91.82.70:8156/VideoInput/play.ts
-#EXTINF:-1 ,tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://epg.112114.xyz/logo/香蕉台.png" group-title="其他",香蕉台（door-us）
-http://45.91.82.70:8159/VideoInput/play.ts
-#EXTINF:-1 ,奥视1（door-us）
-http://45.91.82.70:8201/VideoInput/play.ts
-#EXTINF:-1 ,奥视2（door-us）
-http://45.91.82.70:8203/VideoInput/play.ts
-#EXTINF:-1 ,奥视3（door-us）
-http://45.91.82.70:8205/VideoInput/play.ts
-#EXTINF:-1 ,麻豆（door-us）
-http://45.91.82.70:51359/VideoInput/play.ts
-#EXTINF:-1 ,Extasy（door-us）
-http://45.91.82.70:10080/350/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Redlight HD（door-us）
-http://45.91.82.70:10080/358/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Vividtv（door-us）
-http://45.91.82.70:10080/361/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Erox（door-us）
-http://45.91.82.70:10080/363/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Private（door-us）
-http://45.91.82.70:10080/356/playlist.m3u8
-#EXTINF:-1 ,Hustler（door-us）
-http://45.91.82.70:10080/348/index.m3u8
-#EXTINF:-1 ,Hustler TVr（door-us）
-http://45.91.82.70:10080/349/index.m3u8
-#EXTINF:-1 ,Penthouse（door-us）
-http://45.91.82.70:10080/353/index.m3u8
+#EXTINF:-1 ,tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="https://epg.112114.xyz/logo/惊艳台.png" group-title="其他",惊艳台（door）
+http://myiptv.dd-dns.de:8156/VideoInput/play.ts
+#EXTINF:-1 ,tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://epg.112114.xyz/logo/香蕉台.png" group-title="其他",香蕉台（door）
+http://myiptv.dd-dns.de:8159/VideoInput/play.ts
+#EXTINF:-1 ,奥视1（door）
+http://myiptv.dd-dns.de:8201/VideoInput/play.ts
+#EXTINF:-1 ,奥视2（door）
+http://myiptv.dd-dns.de:8203/VideoInput/play.ts
+#EXTINF:-1 ,奥视3（door）
+http://myiptv.dd-dns.de:8205/VideoInput/play.ts
+#EXTINF:-1 ,麻豆（door）
+http://myiptv.dd-dns.de:51359/VideoInput/play.ts
+#EXTINF:-1 ,Extasy（door）
+http://myiptv.dd-dns.de:10080/350/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Redlight HD（door）
+http://myiptv.dd-dns.de:10080/358/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Vividtv（door）
+http://myiptv.dd-dns.de:10080/361/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Erox（door）
+http://myiptv.dd-dns.de:10080/363/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Private（door）
+http://myiptv.dd-dns.de:10080/356/playlist.m3u8
+#EXTINF:-1 ,Hustler（door）
+http://myiptv.dd-dns.de:10080/348/index.m3u8
+#EXTINF:-1 ,Hustler TVr（door）
+http://myiptv.dd-dns.de:10080/349/index.m3u8
+#EXTINF:-1 ,Penthouse（door）
+http://myiptv.dd-dns.de:10080/353/index.m3u8
 
 #EXTINF:-1 ,潘多拉完美台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
