@@ -1,96 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FM1320" tvg-name="FM1320" tvg-logo="https://epg.112114.xyz/logo/FM.png" group-title="其他",FM1320
+#EXTINF:-1 ,FM1320
 http://n0d.radiojar.com/60sqadqu97zuv?rj-ttl=5&1658084996=&rj-tok=AAABjKTKTWIAj6jRzfyUtCmyTA
-#EXTINF:-1 tvg-id="HeartLondon1" tvg-name="HeartLondon1" tvg-logo="https://epg.112114.xyz/logo/HEARTLONDON1.png" group-title="其他",HeartLondon1
+#EXTINF:-1 ,HeartLondon1
 http://icecast.thisisdax.com/HeartLondon
-#EXTINF:-1 tvg-id="HeartLondon2" tvg-name="HeartLondon2" tvg-logo="https://epg.112114.xyz/logo/HEARTLONDON2.png" group-title="其他",HeartLondon2
+#EXTINF:-1 ,HeartLondon2
 http://media-ice.musicradio.com/HeartLondon
-#EXTINF:-1 tvg-id="HeartLondon3" tvg-name="HeartLondon3" tvg-logo="https://epg.112114.xyz/logo/HEARTLONDON3.png" group-title="其他",HeartLondon3
+#EXTINF:-1 ,HeartLondon3
 http://media-ice.musicradio.com/HeartLondonMP3
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 tvg-id="AsiaFM亚太电台" tvg-name="AsiaFM亚太电台" tvg-logo="https://epg.112114.xyz/logo/ASIAFM亚太电台.png" group-title="其他",AsiaFM亚太电台
-http://stream.rcs.revma.com/kydend74hv8uv
-#EXTINF:-1 tvg-id="AsiaFM亚洲电台" tvg-name="AsiaFM亚洲电台" tvg-logo="https://epg.112114.xyz/logo/ASIAFM亚洲电台.png" group-title="其他",AsiaFM亚洲电台
-http://stream.rcs.revma.com/xpgtqc74hv8uv
-#EXTINF:-1 tvg-id="FlyRadio飞扬调频" tvg-name="FlyRadio飞扬调频" tvg-logo="https://epg.112114.xyz/logo/FLYRADIO飞扬调频.png" group-title="其他",FlyRadio飞扬调频
-http://stream.rcs.revma.com/e0tdah74hv8uv
-#EXTINF:-1 tvg-id="M-Radio全国广播" tvg-name="M-Radio全国广播" tvg-logo="https://epg.112114.xyz/logo/MRADIO全国广播.png" group-title="其他",M-Radio全国广播
-http://stream.rcs.revma.com/044q61ha7a0uv
-#EXTINF:-1 tvg-id="飞碟电台" tvg-name="飞碟电台" tvg-logo="https://epg.112114.xyz/logo/飞碟电台.png" group-title="其他",飞碟电台
-http://stream.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1 tvg-id="环宇广播" tvg-name="环宇广播" tvg-logo="https://epg.112114.xyz/logo/环宇广播.png" group-title="其他",环宇广播
-http://stream.rcs.revma.com/srn5f9kmwxhvv
-#EXTINF:-1 tvg-id="News98新闻台" tvg-name="News98新闻台" tvg-logo="https://epg.112114.xyz/logo/NEWS98新闻台.png" group-title="其他",News98新闻台
-http://stream.rcs.revma.com/55tyxsy4qtzuv
-#EXTINF:-1 tvg-id="中广流行网" tvg-name="中广流行网" tvg-logo="https://epg.112114.xyz/logo/中广流行网.png" group-title="其他",中广流行网
-http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 tvg-id="中广新闻网" tvg-name="中广新闻网" tvg-logo="https://epg.112114.xyz/logo/中广新闻网.png" group-title="其他",中广新闻网
-http://stream.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-id="中广音乐网" tvg-name="中广音乐网" tvg-logo="https://epg.112114.xyz/logo/中广音乐网.png" group-title="其他",中广音乐网
-http://stream.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-id="News98新闻台" tvg-name="News98新闻台" tvg-logo="https://epg.112114.xyz/logo/NEWS98新闻台.png" group-title="其他",News98新闻台
-http://n12.rcs.revma.com/55tyxsy4qtzuv
-#EXTINF:-1 tvg-id="飞碟电台" tvg-name="飞碟电台" tvg-logo="https://epg.112114.xyz/logo/飞碟电台.png" group-title="其他",飞碟电台
-http://n08.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1 tvg-id="中广流行网" tvg-name="中广流行网" tvg-logo="https://epg.112114.xyz/logo/中广流行网.png" group-title="其他",中广流行网
-http://n14.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 tvg-id="中广新闻网" tvg-name="中广新闻网" tvg-logo="https://epg.112114.xyz/logo/中广新闻网.png" group-title="其他",中广新闻网
-http://n12.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-id="中广音乐网" tvg-name="中广音乐网" tvg-logo="https://epg.112114.xyz/logo/中广音乐网.png" group-title="其他",中广音乐网
-http://n07.rcs.revma.com/ks4vsmg3qtzuv
-#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CityFM|城市广播
-http://fm929.cityfm.tw:8080/929.mp3
-#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CityFM|大苗栗广播
-http://fm983.cityfm.tw:8080/983.mp3
-#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CityFM|台北健康
-http://fm901.cityfm.tw:8080/901.mp3
-#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="其他",CityFM|台南之音
-http://fm971.cityfm.tw:8080/971.mp3
-#EXTINF:-1 tvg-id="台湾古典音乐台" tvg-name="台湾古典音乐台" tvg-logo="https://epg.112114.xyz/logo/台湾古典音乐台.png" group-title="台湾",台湾古典音乐台
-http://59.120.88.155:8000/live.mp3
-#EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://epg.112114.xyz/logo/美国之音.png" group-title="其他",美国之音
+#EXTINF:-1 ,美国之音
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 tvg-id="自由亚洲电台" tvg-name="自由亚洲电台" tvg-logo="https://epg.112114.xyz/logo/自由亚洲电台.png" group-title="其他",自由亚洲电台
+#EXTINF:-1 ,自由亚洲电台
 https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
-#EXTINF:-1 tvg-id="法国国际广播电台" tvg-name="法国国际广播电台" tvg-logo="https://epg.112114.xyz/logo/法国国际广播电台.png" group-title="其他",法国国际广播电台
+#EXTINF:-1 ,法国国际广播电台
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1 tvg-id="飞特电台" tvg-name="飞特电台" tvg-logo="https://epg.112114.xyz/logo/飞特电台.png" group-title="其他",飞特电台
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 ,News98新闻台
+http://stream.rcs.revma.com/55tyxsy4qtzuv
+#EXTINF:-1 ,中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 ,中广流行网
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 ,中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 ,AsiaFM亚洲电台
+http://stream.rcs.revma.com/xpgtqc74hv8uv
+#EXTINF:-1 ,FlyRadio飞扬调频
+http://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1 ,M-Radio全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv
+#EXTINF:-1 ,飞碟电台
+http://stream.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 ,环宇广播
+http://stream.rcs.revma.com/srn5f9kmwxhvv
+#EXTINF:-1 ,CityFM|城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 ,CityFM|大苗栗广播
+http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1 ,CityFM|台北健康
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1 ,CityFM|台南之音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 ,台湾古典音乐台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 ,飞特电台
 https://phate.io/listen.ogg
-#EXTINF:-1 tvg-id="全国治安交通台" tvg-name="全国治安交通台" tvg-logo="https://epg.112114.xyz/logo/全国治安交通台.png" group-title="其他",全国治安交通台
-http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
-#EXTINF:-1 tvg-id="全国治安交通网" tvg-name="全国治安交通网" tvg-logo="https://epg.112114.xyz/logo/全国治安交通网.png" group-title="其他",全国治安交通网
-http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播高雄分台" tvg-name="警察广播高雄分台" tvg-logo="https://epg.112114.xyz/logo/警察广播高雄分台.png" group-title="其他",警察广播高雄分台
-http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播花莲分台" tvg-name="警察广播花莲分台" tvg-logo="https://epg.112114.xyz/logo/警察广播花莲分台.png" group-title="其他",警察广播花莲分台
-http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播台北分台" tvg-name="警察广播台北分台" tvg-logo="https://epg.112114.xyz/logo/警察广播台北分台.png" group-title="其他",警察广播台北分台
-http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播台东分台" tvg-name="警察广播台东分台" tvg-logo="https://epg.112114.xyz/logo/警察广播台东分台.png" group-title="其他",警察广播台东分台
-http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播台南分台" tvg-name="警察广播台南分台" tvg-logo="https://epg.112114.xyz/logo/警察广播台南分台.png" group-title="其他",警察广播台南分台
-http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播台中分台" tvg-name="警察广播台中分台" tvg-logo="https://epg.112114.xyz/logo/警察广播台中分台.png" group-title="其他",警察广播台中分台
-http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播新竹分台" tvg-name="警察广播新竹分台" tvg-logo="https://epg.112114.xyz/logo/警察广播新竹分台.png" group-title="其他",警察广播新竹分台
-http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
-#EXTINF:-1 tvg-id="警察广播宜兰分台" tvg-name="警察广播宜兰分台" tvg-logo="https://epg.112114.xyz/logo/警察广播宜兰分台.png" group-title="其他",警察广播宜兰分台
-http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
-#EXTINF:-1 tvg-id="英语资讯广播 CGTN Radio" tvg-name="英语资讯广播 CGTN Radio" tvg-logo="https://epg.112114.xyz/logo/英语资讯广播CGTNRADIO.png" group-title="央视",英语资讯广播 CGTN Radio
-http://sk.cri.cn/am846.m3u8
-
-#EXTINF:-1 tvg-id="台北广播电台AM1134" tvg-name="台北广播电台AM1134" tvg-logo="https://epg.112114.xyz/logo/台北广播电台AM.png" group-title="其他",台北广播电台AM1134
-https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
-#EXTINF:-1 tvg-id="台北广播电台FM93.1" tvg-name="台北广播电台FM93.1" tvg-logo="https://epg.112114.xyz/logo/台北广播电台FM93.1.png" group-title="其他",台北广播电台FM93.1
+#EXTINF:-1 ,台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-#EXTINF:-1 tvg-id="LOVE 972" tvg-name="LOVE 972" tvg-logo="https://epg.112114.xyz/logo/LOVE.png" group-title="其他",LOVE 972
+#EXTINF:-1 ,LOVE 972
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 tvg-id="CAPITAL 958" tvg-name="CAPITAL 958" tvg-logo="https://epg.112114.xyz/logo/CAPITAL.png" group-title="其他",CAPITAL 958
+#EXTINF:-1 ,CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-id="UFM 1003" tvg-name="UFM 1003" tvg-logo="https://epg.112114.xyz/logo/UFM.png" group-title="其他",UFM 1003
+#EXTINF:-1 ,UFM 1003
 https://22243.live.streamtheworld.com/UFM_1003AAC_SC
-#EXTINF:-1 tvg-id="YES 933" tvg-name="YES 933" tvg-logo="https://epg.112114.xyz/logo/YES.png" group-title="其他",YES 933
+#EXTINF:-1 ,YES 933
 https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 ,英语资讯广播 CGTN Radio
+http://sk.cri.cn/am846.m3u8
