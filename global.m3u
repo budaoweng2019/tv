@@ -11,7 +11,7 @@ http://itv.dd-dns.de:10081/hls/modn/list/4012/playlist.m3u8
 http://itv.dd-dns.de:18278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻（itv)
 http://itv.dd-dns.de:10081/hls/modn/list/4027/playlist.m3u8
-#EXTINF:-1 tvg-id="TBVS亚洲" tvg-name="TBVS亚洲" tvg-logo="https://epg.112114.xyz/logo/TBVS亚洲.png" group-title="其他",TBVS亚洲（itv)
+#EXTINF:-1 tvg-id="TBVS亚洲" tvg-name="TBVS亚洲" tvg-logo="https://epg.112114.xyz/logo/TBVS亚洲.png" group-title="港澳台",TBVS亚洲（itv)
 http://itv.dd-dns.de:10081/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻（itv)
 http://itv.dd-dns.de:18080/live/20/hls.m3u8
