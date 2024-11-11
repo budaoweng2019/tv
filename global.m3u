@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,台视新闻（itv）
-https://itv.dd-dns.de:10443/hls/master-ttvnews.m3u8
-#EXTINF:-1 ,台视新闻（itv）
 http://itv.dd-dns.de:10081/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 ,台视新闻（itv）
+https://itv.dd-dns.de:10443/hls/master-ttvnews.m3u8
 #EXTINF:-1 ,民视新闻（itv）
 http://itv.dd-dns.de:10081/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 ,TVBS新闻（itv）
