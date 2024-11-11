@@ -5,6 +5,8 @@ http://itv.dd-dns.de:10081/hls/modn/list/4013/playlist.m3u8
 https://itv.dd-dns.de:10443/hls/master-ttvnews.m3u8
 #EXTINF:-1 ,民视新闻（itv）
 http://itv.dd-dns.de:10081/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 ,TVBS 56
+http://itv.dd-dns.de:18278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 ,TVBS新闻（itv）
 http://itv.dd-dns.de:10081/hls/modn/list/4027/playlist.m3u8
 #EXTINF:-1 ,TBVS亚洲（itv）
