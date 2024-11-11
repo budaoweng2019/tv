@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,台视新闻（itv）
-http://itv.dd-dns.de:10081/hls/modn/list/4013/playlist.m3u8
+http://itv.dd-dns.de:10081/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 ,台视新闻（itv）
 https://itv.dd-dns.de:10443/hls/master-ttvnews.m3u8
 #EXTINF:-1 ,民视新闻（itv）
-http://itv.dd-dns.de:10081/hls/modn/list/4012/playlist.m3u8
+http://itv.dd-dns.de:10081/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 ,TVBS新闻（itv）
-http://itv.dd-dns.de:10081/hls/modn/list/4027/playlist.m3u8
+http://itv.dd-dns.de:10081/hls/modn/list/4027/chunklist1.m3u8
 #EXTINF:-1 ,TBVS亚洲（itv）
-http://itv.dd-dns.de:10081/hls/modn/list/4005/playlist.m3u8
+http://itv.dd-dns.de:10081/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 ,东森新闻（itv）
 http://itv.dd-dns.de:18080/live/20/hls.m3u8
 #EXTINF:-1 ,东森美洲
-http://itv.dd-dns.de:10081/hls/modn/list/2016/playlist.m3u8
+http://itv.dd-dns.de:10081/hls/modn/list/2016/chunklist1.m3u8
 #EXTINF:-1 ,非凡新闻（itv）
 rtmp://itv.dd-dns.de/sat/tv581
 #EXTINF:-1 ,互动英文（itv）
