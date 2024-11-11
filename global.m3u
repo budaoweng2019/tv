@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻（itv)
 http://itv.dd-dns.de:10081/hls/modn/list/4013/playlist.m3u8
@@ -5,7 +6,7 @@ http://itv.dd-dns.de:10081/hls/modn/list/4013/playlist.m3u8
 https://itv.dd-dns.de:10443/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻（itv)
 http://itv.dd-dns.de:10081/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 tvg-id="056TVBS" tvg-name="056TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",056TVBS（itv)
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS 56（itv)
 http://itv.dd-dns.de:18278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻（itv)
 http://itv.dd-dns.de:10081/hls/modn/list/4027/playlist.m3u8
@@ -27,5 +28,8 @@ http://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+
+
 
 
